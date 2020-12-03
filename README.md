@@ -1,2 +1,2 @@
-# grafana_annotation_api
-plugin that supports adding, removing and updating Grafana annotations to the influxdb database using Grafana Annotations API
+# Grafana annotation api
+Plugin that enables pulling Grafana annotations as json using Grafana Annotations API
